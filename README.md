@@ -20,9 +20,10 @@ If you want to create custom voice lines for your radio:
 5. You can now type whatever you want the synthesyzer to say. Click "speak!" to hear it aloud.
 6. To save it as a wav audio file, click on "save as" and follow the save prompt. The file has the recommended parameters for the Taranis X9D radio
 7. Enjoy Cortana on your radio!
-
 <br>
+
 If you want to generate multiple voice lines at a time:
 1. Use a CSV file, separated with commas, where the first values is the file name (6 letters max length), and the second values is the voice line
 2. Within the app, click on "load CSV file" and select the file you want to read
 3. Select a folder where to save all the audio files, and you are done!
+<br>
