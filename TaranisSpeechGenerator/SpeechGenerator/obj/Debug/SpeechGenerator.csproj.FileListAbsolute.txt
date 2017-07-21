@@ -1,0 +1,9 @@
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\bin\Debug\SpeechGenerator.exe.config
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\bin\Debug\SpeechGenerator.exe
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\bin\Debug\SpeechGenerator.pdb
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.csprojResolveAssemblyReference.cache
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.Form1.resources
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.Properties.Resources.resources
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.csproj.GenerateResource.Cache
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.exe
+E:\Daniel\Documents\Visual Studio 2017\Projects\SpeechGenerator\SpeechGenerator\obj\Debug\SpeechGenerator.pdb
