@@ -1,7 +1,8 @@
 # Cortana-OpenTX-voice
 A quick and dirty piece of code that produces voice commands based on windows TTS. In this repo, you can download and unzip the "en" folder, which contains system sounds, custom sounds (primarily for mini quads), and the necesary CSV file for the radio to recognize the voice pack. You can also find the VS files, including the applicationand, solution, and code.<br>
 
-**Important note: The voice pack is for english and metric system ONLY!**
+**Important note: This repo only contains english voicelines and uses metric system only!** However, you can generate other languages and use imperial if you so desire by creating your own voice lines
+<br>
 
 The "I just want to use cortana on my radio" instructions:
 1. Download the repo and unzip the "en" folder
