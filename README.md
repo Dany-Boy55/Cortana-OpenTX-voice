@@ -11,6 +11,7 @@ The "I just want to use cortana on my radio" instructions:
 5. Open the "sounds folder", identify the "en" folder, and replace it with the one you just downloaded
 6. Enjoy your new radio with a cortana Voice Pack!
 <br>
+
 If you want to create custom voice lines for your radio:
 1. You will first need to add "Eva mobile" as a voice synthesyzer (That's cortana's voice TTS)
 2. For that I recommend you follow [this guide](http://fieldguide.gizmodo.com/make-your-mac-feel-like-new-again-with-a-fresh-install-1697926482)
@@ -19,6 +20,7 @@ If you want to create custom voice lines for your radio:
 5. You can now type whatever you want the synthesyzer to say. Click "speak!" to hear it aloud.
 6. To save it as a wav audio file, click on "save as" and follow the save prompt. The file has the recommended parameters for the Taranis X9D radio
 7. Enjoy Cortana on your radio!
+
 <br>
 If you want to generate multiple voice lines at a time:
 1. Use a CSV file, separated with commas, where the first values is the file name (6 letters max length), and the second values is the voice line
